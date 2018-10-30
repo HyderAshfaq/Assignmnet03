@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-"Hyder Ashfaq" 
-=======
-"Hyder Ashfaq"  
-Email: haiderashfaq@ucp.edu.pk
-Faculty of Information Technology
->>>>>>> a6fbe979efbe53cd3d0f436848aa483cd6892a92
